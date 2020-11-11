@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48c05062-cfc5-4c94-8f7f-dcd54caf0781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/flex.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k66PeWQUYhuHOTLRajtedOdhLW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,7 +52,8 @@
       <workItem from="1605008671738" duration="1376000" />
       <workItem from="1605044081368" duration="599000" />
       <workItem from="1605056812214" duration="3837000" />
-      <workItem from="1605060652907" duration="1285000" />
+      <workItem from="1605060652907" duration="3910000" />
+      <workItem from="1605082509729" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1605060668426</created>
@@ -57,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605060668426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成flex的相应布局要求">
+      <created>1605061968257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605061968257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,21 +77,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="完成flex的相应布局要求" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成flex的相应布局要求" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1605060667807">
+    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1605061967573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="81" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605060667807" />
+    <state x="558" y="81" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605061967573" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605060650275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605060650275" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605060669940">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605061969878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605060669940" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605061969878" />
     <state x="506" y="0" width="1430" height="1027" key="dock-window-1" timestamp="1605061574448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
