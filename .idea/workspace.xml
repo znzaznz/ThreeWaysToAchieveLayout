@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c05062-cfc5-4c94-8f7f-dcd54caf0781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="48c05062-cfc5-4c94-8f7f-dcd54caf0781" name="Default Changelist" comment="完成flex的相应布局要求">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,9 @@
       <workItem from="1605044081368" duration="599000" />
       <workItem from="1605056812214" duration="3837000" />
       <workItem from="1605060652907" duration="3910000" />
-      <workItem from="1605082509729" duration="822000" />
+      <workItem from="1605082509729" duration="1039000" />
+      <workItem from="1605096857836" duration="476000" />
+      <workItem from="1605171926870" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1605060668426</created>
@@ -69,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605061968257</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成flex的相应布局要求">
+      <created>1605083345195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605083345195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,18 +87,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="完成flex的相应布局要求" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1605061967573">
+    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1605083393596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="81" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605061967573" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605060650275">
+    <state x="558" y="81" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605083393596" />
+    <state x="184" y="77" key="DiffContextDialog" timestamp="1605083366981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605060650275" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605061969878">
+    <state x="184" y="77" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605083366981" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605083548011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605061969878" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605083548011" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1605083380915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605083380915" />
     <state x="506" y="0" width="1430" height="1027" key="dock-window-1" timestamp="1605061574448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -101,5 +111,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="786" y="253" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605057791609" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605083421813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605083421813" />
   </component>
 </project>
